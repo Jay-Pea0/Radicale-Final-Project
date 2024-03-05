@@ -1,5 +1,7 @@
-# Radicale Final Year Project
+# Cross Platform Compatibility in Open Source Calendar Applications
 
 CMP3753 Project (Assessment 3)
 
 Originally created in 2023
+
+Report and code both included in repository
